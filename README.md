@@ -4,7 +4,7 @@
 
 The **Advanced Driver Assistance System (ADAS)** is a real-time web application developed to improve vehicle safety using state-of-the-art computer vision and machine learning techniques. The system provides intelligent features such as object detection, lane tracking, distance estimation, night vision, voice alerts, and a GPS-like mini-map display — all within a user-friendly Streamlit interface.
 
----
+
 
 ## 🎯 Objectives
 
