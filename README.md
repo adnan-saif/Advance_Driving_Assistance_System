@@ -14,7 +14,7 @@ The **Advanced Driver Assistance System (ADAS)** is a real-time web application 
 - Maintain a secure, user-authenticated platform with history logging in MySQL.  
 - Enhance situational awareness using night vision and a dynamic mini-map.  
 
----
+
 
 ## 🧰 Technologies Used
 
