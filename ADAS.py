@@ -18,8 +18,8 @@ try:
     conn = pymysql.connect(
         host="localhost",
         user="root",
-        password="safari248",
-        database="history"
+        password="your_password",
+        database="your_database"
     )
     cursor = conn.cursor()
 except pymysql.MySQLError as err:
