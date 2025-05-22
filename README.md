@@ -28,7 +28,7 @@ The **Advanced Driver Assistance System (ADAS)** is a real-time web application 
 - **Database**: MySQL (Detection Logging)  
 - **Tools**: VS Code, Jupyter Notebook  
 
----
+
 
 ## 🔁 Workflow
 
@@ -63,7 +63,7 @@ The **Advanced Driver Assistance System (ADAS)** is a real-time web application 
 - Displays a 2D vehicle-relative layout.
 - Icons for vehicle, detected objects, and lane markers.
 
----
+
 
 ## 📊 Result Interpretation
 
@@ -72,7 +72,7 @@ The **Advanced Driver Assistance System (ADAS)** is a real-time web application 
 - Alerts displayed on-screen with optional audio warnings.
 - High accuracy and low latency under standard daylight driving conditions.
 
----
+
 
 ## ✅ Results
 
@@ -81,7 +81,7 @@ The **Advanced Driver Assistance System (ADAS)** is a real-time web application 
 - **Distance Estimation**: ±10% deviation on average.  
 - **Voice Alerts**: Triggered within 0.5 seconds of hazard detection.  
 
----
+
 
 ## 🔮 Future Work
 
@@ -91,13 +91,13 @@ The **Advanced Driver Assistance System (ADAS)** is a real-time web application 
 - Add driver drowsiness detection and speed sign recognition.  
 - Deploy as a mobile application or onboard system in vehicles.
 
----
+
 
 ## 🧾 Conclusion
 
 This project presents a comprehensive real-time ADAS system implemented using modern computer vision, deep learning, and web technologies. The system demonstrates how affordable and accessible safety features can be integrated into modern vehicles using Python-based tools. The modular architecture ensures that each component — from lane tracking to object detection and user logging — contributes toward safer driving.
 
----
+
 
 ## 📚 References
 
@@ -106,7 +106,7 @@ This project presents a comprehensive real-time ADAS system implemented using mo
 - Streamlit Docs: [Streamlit.io](https://docs.streamlit.io/)  
 - Hough Transform Theory: [Wikipedia](https://en.wikipedia.org/wiki/Hough_transform)  
 
----
+
 
 ## 📦 Clone Repository
 
