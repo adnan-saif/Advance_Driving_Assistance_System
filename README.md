@@ -113,5 +113,5 @@ This project presents a comprehensive real-time ADAS system implemented using mo
 To clone this repository to your local machine, run the following command:
 
 ```bash
-git clone https://github.com/your-username/adas-streamlit-app.git
+git clone https://github.com/adnan-saif/Advanced_Driving_Assistance_System.git
 
